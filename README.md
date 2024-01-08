@@ -1,4 +1,4 @@
-# react30_1_id_card_generator
+# ID Card Generator
 ID card generation assignment
 
 Current UI:
